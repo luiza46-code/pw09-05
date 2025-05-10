@@ -1,0 +1,50 @@
+body{
+    background-color:darkcyan;
+}
+
+h2{
+    color:darkturquoise;
+    text-align: center;
+    background-color: blue;
+}
+
+p{
+    color:aquamarine;
+    text-align: justify;
+}
+
+.destaque{
+    background-color: indigo;
+    color:fuchsia;
+    
+}
+
+nav{
+float: right;
+}
+
+nav ul li{
+display: inline;
+margin-left: 50px;
+border: 2px solid;
+padding: 5px;
+background-color: aqua;
+}
+
+header{
+    background-color: teal;
+    height: 100px;
+    color: cornflowerblue;
+    margin:  10px; 
+    
+    
+}
+
+img{
+    width: 90px;
+}
+
+main{
+    margin: auto 20%;
+  
+}
